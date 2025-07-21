@@ -1,6 +1,7 @@
 # 📚 SAP Datasphere Training Journal
 
 Welcome to my structured learning journal for SAP Datasphere!  
+
 This repository tracks my step-by-step progress as I explore SAP Datasphere concepts, features, and practical use cases—perfect for reinforcing what I learn and sharing insights with others.
 
 ---
@@ -17,8 +18,8 @@ This repository tracks my step-by-step progress as I explore SAP Datasphere conc
 
 ## 📦 Modules Completed
 
-| Module | Title | Units | Duration | Status |
-|--------|-------|--------|----------|--------|
+| Module | Title | Units |
+|--------|-------|--------|
 | [Module 1](module-1-strategy-for-sap-datasphere.md) | Identifying the Strategy for SAP Datasphere | 3 |
 | [Module 2](module-2-preparing-the-landscape.md) | Preparing the Landscape | 2 |
 | [Module 3](module-3-modeling-in-sap-datasphere.md) | Modeling in SAP Datasphere | 4 |
